@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.version,sysinfo,,,"1.6.0_31",1335278044985
+java.vm.info,sysinfo,,,"mixed mode",1335278044985
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1335278044985
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1335278044985
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1335278044985
+java.vm.specification.version,sysinfo,,,"1.0",1335278044985
+java.vm.vendor,sysinfo,,,"Apple Inc.",1335278044985
+java.vm.version,sysinfo,,,"20.6-b01-414",1335278044985
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1335278055896
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1335278056941
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1335278058448
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1335278203430
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1335278203524
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1335278206523
+started,bundle,org.eclipse.jdt.core,3.6.0.v_A58,"org.eclipse.jdt.core",1335278206870
+started,bundle,org.eclipse.jdt.core.manipulation,1.3.0.v20100520-0800,"org.eclipse.jdt.core.manipulation",1335278206939
+started,bundle,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui",1335278206954
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1335278207056
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1335278214791
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1335278214894
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1335278216511
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1335278216674
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1335278216674
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1335278221747
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1335278227047
